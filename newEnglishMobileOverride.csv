@@ -1,0 +1,108 @@
+0|game.store.comboPacks.24.name|18 Instant revive tokens
+0|game.store.comboPacks.24.description|18 instant revive tokens for use in both single player and multiplayer
+0|game.store.comboPacks.11.name|3 Instant revive tokens
+0|game.store.comboPacks.11.description|3 instant revive tokens for use in both single player and multiplayer
+0|localization.dialogMessage.survivorsMessages.msg2EvacBails|Whooaa! There's giant infected coming out of the ground! You guys keep em' distracted, I'm getting these civvies outa here.
+1793|weapon.Raptor_v2.desc|The Raptor is the weapon of choice for situations requiring high accuracy and mobility combined with decent stopping power. 3 shot bursts will drop most light armored human targets.
+1812|weapon.Raptor_v1.desc|The Raptor is the weapon of choice for situations requiring high accuracy and mobility combined with decent stopping power. 3 shot bursts will drop most light armored human targets.
+2053|weapon.HIKHeavyshotProtector_v1.desc|HIK Heavyshot shoots huge calibre armor piercing bullets capable of neutralising most targets in a single shot.
+2070|weapon.HIKHeavyshotProtector_v2.desc|HIK Heavyshot shoots huge calibre armor piercing bullets capable of neutralising most targets in a single shot.
+660|equipment.RubiconPowerAssist_v1.desc|Power assisted suit allows for faster movement than normal while still providing excellent body armor protection.
+626|equipment.R7GuardianPants_v1.desc|6 Alternating layers of bullet proof and impact resistant material with heat proof mesh results in a flexible but effective piece of armor.
+617|equipment.TitanMEMTrooper_v1.desc|Titan Mechanically Enhanced Movement nullifies the bulk of this superior leg armor.
+1890|equipment.RubiconPowerAssist_v2.desc|Power assisted suit allows for faster movement than normal while still providing excellent body armor protection.
+1948|equipment.R7GuardianPants_v2.desc|6 Alternating layers of bullet proof and impact resistant material with heat proof mesh results in a flexible but effective piece of armor.
+1917|equipment.ShotliteHummingbirdG1_v2.desc|Hummingbird series armor uses Shotlite's "Solid Air" technology to create incredibly light armor pieces with high physical and thermal resilience.
+1949|equipment.ShotliteHummingbirdG1_v1.desc|Hummingbird series armor uses Shotlite's "Solid Air" technology to create incredibly light armor pieces with high physical and thermal resilience.
+1969|equipment.ShotliteHummingbirdP1_v2.desc|Hummingbird series armor uses Shotlite's "Solid Air" technology to create incredibly light armor pieces with high physical and thermal resilience.
+1928|equipment.ShotliteHummingbirdV1_v2.desc|Hummingbird series armor uses Shotlite's "Solid Air" technology to create incredibly light armor pieces with high physical and thermal resilience.
+1903|equipment.ShotliteHummingbirdH1_v2.desc|Hummingbird series armor uses Shotlite's "Solid Air" technology to create incredibly light armor pieces with high physical and thermal resilience.
+1901|equipment.ShotliteHummingbirdH1_v1.desc|Hummingbird series armor uses Shotlite's "Solid Air" technology to create incredibly light armor pieces with high physical and thermal resilience.
+1936|equipment.ShotliteHummingbirdV1_v1.desc|Hummingbird series armor uses Shotlite's "Solid Air" technology to create incredibly light armor pieces with high physical and thermal resilience.
+1959|equipment.ShotliteHummingbirdP1_v1.desc|Hummingbird series armor uses Shotlite's "Solid Air" technology to create incredibly light armor pieces with high physical and thermal resilience.
+1894|equipment.TitanMEMTrooper_v2.desc|Titan Mechanically Enhanced Movement nullifies the bulk of this superior leg armor.
+0|game.skills.base.6.name|Body Armor Expert
+0|game.skills.base.6.gameDesc|Increases the total physical, heat and toxic resistance for all armor worn
+0|game.skills.base.6.skillLevelDesc|[amountTotalPercent] increase in total armor
+0|game.skills.heavy.1.gameDesc|Reduces percentage of negative movement effects for weapons and armor.
+0|game.skills.heavy.2.details|get an extra [amountPercent] damage reduction from all damage types + [increaseAmount] per point - this is applied AFTER all armor calculations
+0|game.store.comboPacks.3.ORIGDescription|This combat kit is ideal for specialist Medic SAS team members. Contains: HVM 002, and Rubicon 4A body armor: RAS GTH - 4A ★ III (Revitalising III), RAS GTV - 4A, RAS GTT - 4A, RAS GTG - 4A, RAS GTB - 4A. Also contains 3x HVM Heavy Machine Gun Sentry Turrets and 30x M45 Hand Grenades.
+0|game.store.comboPacks.3.description|Changes level of current character up to level 20. Contains: 20 Promethium Strongboxes, 4 Thulium Strongboxes and 1 Nantonium Strongbox. 50 grenades, 50 cryo, 3 of each turret. $2,500,000 SAS4 Creds.
+0|game.store.comboPacks.14.ORIGdescription|This combat kit gives everything the elite members of the Assault SAS might need to stay alive and rack up the kill count. Contains: RIA 20 DSC ★ I (Deadly I), and a full body kit of Rubicon 4A body armor: RAS GTH - 4A, RAS GTV - 4A, RAS GTT - 4A, RAS GTG - 4A, RAS GTB - 4A. Also contains 5x HVM Heavy Machine Gun Sentry Turrets and 40x M45 Hand Grenades.
+0|game.store.comboPacks.14.description|This combat kit gives everything the elite members of the Assault SAS might need to stay alive and rack up the kill count. Contains: RIA 20 DSC ★ I (Deadly I), and a full body kit of Rubicon body armor: Trooper Boots, Trooper Gloves, Trooper Pants, Trooper Vest, Trooper Helmet. Also contains 5x HVM Heavy Machine Gun Sentry Turrets and 40x M45 Hand Grenades.
+0|game.store.comboPacks.15.ORIGDescription|This combat kit is ideal for specialist Medic SAS team members. Contains: HVM 002, and Rubicon 4A body armor: RAS GTH - 4A ★ III (Revitalising III), RAS GTV - 4A, RAS GTT - 4A, RAS GTG - 4A, RAS GTB - 4A. Also contains 3x HVM Heavy Machine Gun Sentry Turrets and 30x M45 Hand Grenades.
+0|game.store.comboPacks.15.description|This combat kit is ideal for specialist Medic SAS team members. Contains: HVM 002, and Rubicon body armor: Trooper Helmet ★ III (Revitalising III), Trooper Vest, Trooper Pants, Trooper Gloves, Trooper Boots. Also contains 3x HVM Heavy Machine Gun Sentry Turrets and 30x M45 Hand Grenades.30x M45 Hand Grenades.
+0|game.store.comboPacks.16.ORIGDescription|This combat kit gives everything the SAS Elite Heavy Trooper might need to hold the line against coming threats. Contains: HVM 008 Light Machine Gun, and Rubicon 4A body armor: RAS GTH - 4A ★ II (Body Fueling II), RAS GTV - 4A, RAS GTT - 4A, RAS GTG - 4A, RAS GTB - 4A. Also contains 3x HVM Heavy Machine Gun Sentry Turrets and 30x M45 Hand Grenades.
+0|game.store.comboPacks.16.description|This combat kit gives everything the SAS Elite Heavy Trooper might need to hold the line against coming threats. Contains: HVM 008 Light Machine Gun, and Rubicon body armor: Trooper Helmet ★ II (Body Fueling II), Trooper Vest, Trooper Pants, Trooper Gloves, Trooper Boots. Also contains 3x HVM Heavy Machine Gun Sentry Turrets and 30x M45 Hand Grenades.
+0|game.enemy.zombieInfo.5.details|Known only as Shielders, these zombies are like Stalkers who were once law enforcement. Slow but heavily armored, flanking is the best tactic.
+0|game.enemy.eliteInfo.8.details|Ignores walls, ignores damage reduction from armor.
+0|game.masteries.levelRewards.16.rewards.4|BLACK Armor piece
+0|game.masteries.levelRewards.17.rewards.4|BLACK Armor piece
+0|game.masteries.levelRewards.18.rewards.4|BLACK Armor piece
+0|game.masteries.levelRewards.19.rewards.4|BLACK Armor piece
+0|game.masteries.levelRewards.20.rewards.4|BLACK Armor piece
+0|game.masteries.levelRewards.21.rewards.4|BLACK Armor piece
+0|game.masteries.levelRewards.22.rewards.4|BLACK Armor piece
+0|game.store.comboPacks.mobile.starterpack.name|Starter Pack
+0|game.store.comboPacks.mobile.starterpack.description|Best value starter pack. Contains: 10 Promethium Strongboxes, 30 grenades, 30 cryo, 1 of each turret. $600,000 SAS4 Creds.
+0|game.store.comboPacks.mobile.skilledveteranspack.name|Skilled Veteran's Pack
+0|game.store.comboPacks.mobile.skilledveteranspack.description|Awesome value pack. Contains: 10 Thulium Strongboxes, 50 grenades, 50 cryo, 1 of each turret. $1,100,000 SAS4 Creds.
+0|game.store.comboPacks.mobile.eliteveteranspack.name|Elite Veteran's Pack
+0|game.store.comboPacks.mobile.eliteveteranspack.description|Bespoke pack. Contains: 10 Nantonium Strongboxes, 50 grenades, 50 cryo, 3 of each turret. $1,700,000 SAS4 Creds.
+0|game.store.comboPacks.mobile.fairgroundpack.name|Fairground Pack
+0|game.store.comboPacks.mobile.fairgroundpack.description|Fairground Pack contains full Clown Armor, the Helter Skelter rocket launcher, a car skin for highway mayhem, in-game grenade skin, and clown profile picture (skins are enabled when any clown item is equipped)
+0|game.store.comboPacks.mobile.fairgroundpack.briefDescription|Contains Clown Armor, the Helter Skelter rocket launcher, a car skin and more!
+0|game.store.comboPacks.18.description|5x Black Strongboxes, 10x Black Keys, $3,300,000 SAS Creds, 5 of each turret and 50x Cryo/Frag grenades.
+0|game.store.comboPacks.26.description|1x Planet Stormer Ltd Edition 8*** [PREM] for every character you have or create!
+0|game.store.comboPacks.27.description|1x Ronson WPX Incinerator 10*** [PREM] for every character you have or create!
+0|game.store.comboPacks.28.description|1x HIKS A10 10*** [PREM] for every character you have or create!
+0|game.store.comboPacks.29.description|1x Donderbus 8*** [PREM] for every character you have or create!
+0|game.store.comboPacks.30.description|1x RIA 15 SE 10*** [PREM] for every character you have or create!
+0|game.store.comboPacks.31.description|1x Torment 10*** [PREM] for every character you have or create!
+0|game.store.comboPacks.33.description|1x Handkanone 8*** [PREM] for every character you have or create!
+0|game.store.comboPacks.34.description|1x CM 505 Alpha Ltd. Edition 10*** [PREM] for every character you have or create!
+0|game.store.comboPacks.35.description|1x HIKS S4000 10*** [PREM] for every character you have or create!
+0|game.store.comboPacks.36.description|1x Vitriol 8*** [PREM] for every character you have or create!
+0|game.store.comboPacks.37.description|1x Ronson 5X5 10*** [PREM] for every character you have or create!
+0|game.store.comboPacks.38.description|1x CM 000 Kelvin 10*** [PREM] for every character you have or create!
+0|game.store.comboPacks.mobile.10revives.name|10 Instant revive tokens
+0|game.store.comboPacks.mobile.10revives.description|10 instant revive tokens for use in both single player and multiplayer
+0|game.store.comboPacks.mobile.6revives.name|6 Instant revive tokens
+0|game.store.comboPacks.mobile.6revives.description|6 instant revive tokens for use in both single player and multiplayer
+0|game.store.comboPacks.39.description|1x Supermarine Alpha Ltd Edition 10*** [PREM] for every character you have or create!
+0|game.store.comboPacks.40.description|1x RIA 8A 8*** [PREM] for every character you have or create!
+0|game.store.comboPacks.41.description|1x CM Laser Drill 10*** [PREM] for every character you have or create!
+0|game.store.comboPacks.42.description|1x Ricochet 8*** [PREM] for every character you have or create!
+0|game.store.comboPacks.43.description|1x CM 352 Quasar 10*** [PREM] for every character you have or create!
+0|game.store.comboPacks.44.description|1x CM 467 10*** [PREM] for every character you have or create!
+0|game.store.comboPacks.45.description|1x Bayonet 8*** [PREM] for every character you have or create!
+0|game.store.comboPacks.46.description|1x Ria 75 10*** [PREM] for every character you have or create!
+0|game.store.comboPacks.47.description|1x CM Proton Arc 10*** [PREM] for every character you have or create!
+0|game.store.comboPacks.48.description|1x HIKS 888 CAW 10*** [PREM] for every character you have or create!
+0|game.store.comboPacks.49.description|1x Zerfallen 10*** [PREM] for every character you have or create!
+0|game.store.comboPacks.1050.description|1x Banshee 10*** [PREM] for every character you have or create!
+0|game.store.comboPacks.1051.description|1x Ahab 10*** [PREM] for every character you have or create!
+0|game.store.comboPacks.1052.description|1x Contagion 10*** [PREM] for every character you have or create!
+0|game.store.comboPacks.1053.description|1x Calamity 10*** [PREM] for every character you have or create!
+0|game.store.comboPacks.1054.description|1x CM 369 Starfury 10*** [PREM] for every character you have or create!
+0|game.store.comboPacks.1055.description|1x T-189 MGL 10*** [PREM] for every character you have or create!
+0|game.levelPacks.0.levels.7.levelName|Recovery
+0|game.levelPacks.0.levels.7.preMissionBrief|Something crashed down on the planet Montano. Something with very strange readings. Scavengers have claimed it. Go in and retrieve it.
+0|game.levelPacks.0.levels.7.objectives.0|Kill all the zombies
+0|game.levelPacks.0.levels.7.missionFailedMessage|You failed the new level
+0|game.levelPacks.0.levels.7.shortMissionFailedMessage|Mission failed
+0|game.levelPacks.0.levels.7.objectives.0|Get in the car
+0|game.levelPacks.0.levels.7.objectives.1|Head to the Scavenger base
+0|game.levelPacks.0.levels.7.objectives.2|Lower the bridge
+0|game.levelPacks.0.levels.7.objectives.3|Infiltrate the Scavenger camp
+0|game.levelPacks.0.levels.7.objectives.4|Secure the object
+0|game.levelPacks.0.levels.7.objectives.5|Return to the LZ
+0|game.skills.assault.3.skillLevelDesc|cost of augmenting guns is [amountTotalPercent] less.
+0|localization.dialogMessage.roadblockMessages1|They're using zombies as defenses?
+0|localization.dialogMessage.roadblockMessages2|That farmhouse looks familiar
+0|localization.dialogMessage.roadblockMessages3|This place is a fortress! Going to have to proceed on foot
+0|localization.dialogMessage.roadblockMessages4|Wha- What is that?
+0|localization.dialogMessage.roadblockMessages5|There’s some strange light coming out of that building
+0|localization.dialogMessage.roadblockMessages6|Getting back to the LZ will be a hell of a lot faster in one of their dune buggies
+0|localization.dialogMessage.roadblockMessages7|Clear out the LZ to give me space to land
+0|localization.dialogMessage.roadblockMessages8|LZ Clear. Stand by for pick up
