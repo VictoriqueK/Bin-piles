@@ -10,8 +10,8 @@ from collections import defaultdict
 
 # Prompt
 
-if os.path.exists(os.path.dirname(os.path.abspath(__file__)) + '\\Encoded .bin files\\') == 0:
-    os.makedirs(os.path.dirname(os.path.abspath(__file__)) + '\\Encoded .bin files\\')
+if os.path.exists(os.path.dirname(os.path.abspath(__file__)) + 'Encoded .bin files') == 0:
+    os.makedirs(os.path.dirname(os.path.abspath(__file__)) + 'Encoded .bin files')
 
 print('Availble commands:')
 print('')
