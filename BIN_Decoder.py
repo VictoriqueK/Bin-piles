@@ -54,15 +54,15 @@ BinaryRaw = str(binascii.hexlify(Numbers))
 # Main code
 
 if SelectedBIN == 1 or SelectedBIN == 6:
-    BinaryDecoded = open(os.path.dirname(os.path.abspath(__file__)) + '\\Decoded .bin files\\' + 'weapons.csv', "w", newline="")
+    BinaryDecoded = open(os.path.dirname(os.path.abspath(__file__)) + 'Decoded .bin files' + 'weapons.csv', "w", newline="")
 elif SelectedBIN == 2:
-    BinaryDecoded = open(os.path.dirname(os.path.abspath(__file__)) + '\\Decoded .bin files\\' + 'ammo.csv', "w", newline="")
+    BinaryDecoded = open(os.path.dirname(os.path.abspath(__file__)) + 'Decoded .bin files' + 'ammo.csv', "w", newline="")
 elif SelectedBIN == 3:
-    BinaryDecoded = open(os.path.dirname(os.path.abspath(__file__)) + '\\Decoded .bin files\\' + 'equipment.csv', "w", newline="")
+    BinaryDecoded = open(os.path.dirname(os.path.abspath(__file__)) + 'Decoded .bin files' + 'equipment.csv', "w", newline="")
 elif SelectedBIN == 4:
-    BinaryDecoded = open(os.path.dirname(os.path.abspath(__file__)) + '\\Decoded .bin files\\' + 'enemies.csv', "w", newline="")
+    BinaryDecoded = open(os.path.dirname(os.path.abspath(__file__)) + 'Decoded .bin files' + 'enemies.csv', "w", newline="")
 elif SelectedBIN == 5:
-    BinaryDecoded = open(os.path.dirname(os.path.abspath(__file__)) + '\\Decoded .bin files\\' + 'augments.csv', "w", newline="")
+    BinaryDecoded = open(os.path.dirname(os.path.abspath(__file__)) + 'Decoded .bin files' + 'augments.csv', "w", newline="")
 
 ## DO NOT CHANGE
 ## -------------
