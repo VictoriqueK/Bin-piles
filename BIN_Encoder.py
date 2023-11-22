@@ -34,19 +34,19 @@ elif SelectedCSV > 6 or SelectedCSV < 0:
 	
 if SelectedCSV == 1 or SelectedCSV == 6:
     CSVFile = os.path.dirname(os.path.abspath(__file__)) + '\\Decoded .bin files\\' + 'weapons.csv'
-    BinaryEncoded = open(os.path.dirname(os.path.abspath(__file__)) + '\\Encoded .bin files\\' + 'weapons.bin', "wb")
+    BinaryEncoded = open(os.path.dirname(os.path.abspath(__file__)) + 'Encoded .bin files' + 'weapons.bin', "wb")
 elif SelectedCSV == 2:
     CSVFile = os.path.dirname(os.path.abspath(__file__)) + '\\Decoded .bin files\\' + 'ammo.csv'
-    BinaryEncoded = open(os.path.dirname(os.path.abspath(__file__)) + '\\Encoded .bin files\\' + 'ammo.bin', "wb")
+    BinaryEncoded = open(os.path.dirname(os.path.abspath(__file__)) + 'Encoded .bin files' + 'ammo.bin', "wb")
 elif SelectedCSV == 3:
     CSVFile = os.path.dirname(os.path.abspath(__file__)) + '\\Decoded .bin files\\' + 'equipment.csv'
-    BinaryEncoded = open(os.path.dirname(os.path.abspath(__file__)) + '\\Encoded .bin files\\' + 'equipment.bin', "wb")
+    BinaryEncoded = open(os.path.dirname(os.path.abspath(__file__)) + 'Encoded .bin files' + 'equipment.bin', "wb")
 elif SelectedCSV == 4:
     CSVFile = os.path.dirname(os.path.abspath(__file__)) + '\\Decoded .bin files\\' + 'enemies.csv'
-    BinaryEncoded = open(os.path.dirname(os.path.abspath(__file__)) + '\\Encoded .bin files\\' + 'enemies.bin', "wb")
+    BinaryEncoded = open(os.path.dirname(os.path.abspath(__file__)) + 'Encoded .bin files' + 'enemies.bin', "wb")
 elif SelectedCSV == 5:
     CSVFile = os.path.dirname(os.path.abspath(__file__)) + '\\Decoded .bin files\\' + 'augments.csv'
-    BinaryEncoded = open(os.path.dirname(os.path.abspath(__file__)) + '\\Encoded .bin files\\' + 'augments.bin', "wb")
+    BinaryEncoded = open(os.path.dirname(os.path.abspath(__file__)) + 'Encoded .bin files' + 'augments.bin', "wb")
 
 ## DO NOT CHANGE
 ## -------------
